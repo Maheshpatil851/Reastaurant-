@@ -1,0 +1,62 @@
+{
+  "login": [
+    {
+      "name": "mahesh",
+      "password": "abc"
+    },
+    {
+      "name": "mahesh2",
+      "password": "abc2"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "mahesh",
+      "Location": "ladjalgaon st",
+      "email": "mahesh@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "maheshpatil2",
+      "Location": "ladjalgaon2",
+      "email": "mahesh2@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "mahesh3",
+      "Location": "ladjalgaon3",
+      "email": "mahesh3@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "mahesh4",
+      "Location": "ladjalgaon4",
+      "email": "mahesh4@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "mahesh5",
+      "Location": "ladjalgaon5",
+      "email": "mahesh5@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "mahesh6",
+      "Location": "ladjalgaon6",
+      "email": "mahesh6@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "mahesh7",
+      "Location": "ladjalgaon7",
+      "email": "mahesh7@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "mahesh8",
+      "Location": "ladjalgaon8",
+      "email": "mahesh8@gmail.com"
+    }
+  ]
+}
