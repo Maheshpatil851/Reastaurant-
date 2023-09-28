@@ -1,0 +1,116 @@
+{
+  "login": [
+    {
+      "name": "mahesh",
+      "password": "abc"
+    },
+    {
+      "name": "mahesh2",
+      "password": "abc2"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "mahesh",
+      "Location": "ladjalgaom",
+      "email": "mahesh@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "abc",
+      "Location": "ladjalgaom",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "rocky",
+      "Location": "ladjalgaom",
+      "email": "abcd@gmail.com"
+    },
+    {
+      "id": "9",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "10",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "11",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "13",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "133",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "1333",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "1455",
+      "name": "jai shri ram",
+      "Location": "ayodhya",
+      "email": "ram@gamil.com"
+    },
+    {
+      "id": "45",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    },
+    {
+      "id": "454",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    },
+    {
+      "id": "4545",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    },
+    {
+      "id": "45455",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    },
+    {
+      "id": "454556",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    },
+    {
+      "id": "4545565",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    },
+    {
+      "id": "45455656",
+      "name": "dafgdfgfdg",
+      "Location": "xdfbgfdgfd",
+      "email": "fghghg"
+    }
+  ]
+}
