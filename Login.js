@@ -16,7 +16,7 @@ export default function Login() {
   const login = () => {
     try {
 
-      fetch('https://reastaurant-nine.vercel.app/login?q=' + state.name)
+      fetch('http://localhost:3000/login?q=' + state.name)
         .then((resp) => resp.json())
         .then((res) => {
           res.map((item) => {
